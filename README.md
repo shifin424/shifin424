@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 "I am a developer on a mission to bring innovation and creativity to every line of code. With a keen eye for detail and a thirst for knowledge, I am constantly seeking out new challenges and opportunities to hone my skills. I believe that coding is not just a profession, but a form of art that can inspire and transform the world. From complex algorithms to elegant user interfaces, I am driven by the limitless potential of technology to solve problems and enrich lives. Join me on this exciting journey and let's create something amazing together."
 
 * 🌍  I'm based in kerala
-* 🚀  I'm currently working on [Ecomerce project](http://shoehub.online)
+* 🚀  I'm currently working on HostelManagement Project
 * 🧠  I'm learning React Jsx
 
 ### Skills
