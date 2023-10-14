@@ -10,8 +10,8 @@
 
 * 🌍  I'm based in Calicut, Kerala, India
 * ✉️  How to reach me [dev.muhammedshifin.com](mailto:dev.muhammedshifin.com)
-* 🚀  I'm currently working on HostelManagement Project
-* * 🧠  I'm learning Nest.js
+* 🚀  I'm currently working on [HostelManagement Project](https://github.com/shifin424/hostelhive-backend.git)
+* 🧠  I'm learning Nest.js
 
 ### Skills
 
