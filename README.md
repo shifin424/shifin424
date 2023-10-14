@@ -1,17 +1,16 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]()
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammed shifin
-=======================================================================================================================================
+<h1 align="center">Hi 👋, I'm Muhammed Shifin </h1>
 
-"Coding with passion and purpose"
+=======================================================================================================================================
+<h3 align="center"> Mastering MERN Magic</h3>
 ---------------------------------
 
 "I am a developer on a mission to bring innovation and creativity to every line of code. With a keen eye for detail and a thirst for knowledge, I am constantly seeking out new challenges and opportunities to hone my skills. I believe that coding is not just a profession, but a form of art that can inspire and transform the world. From complex algorithms to elegant user interfaces, I am driven by the limitless potential of technology to solve problems and enrich lives. Join me on this exciting journey and let's create something amazing together."
 
 * 🌍  I'm based in kerala
 * 🚀  I'm currently working on HostelManagement Project
-* 🧠  I'm learning React Jsx
 
 ### Skills
 
@@ -33,7 +32,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/shifin424" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/shifin_0_0_7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ghbgb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="http://www.instagram.com/shifin_0_0_7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammed-shifin/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
